@@ -1,4 +1,4 @@
-# Hi there 👋, We are EmpowerWhiz
+# Hi there 👋, We are Zero2Lab
 - 👾 Empowering Minds, Inspiring Futures
 - 🌱 This is a repository for EmpowerWhiz developments.
 - 👯 Everyone is welcome to contribute.
