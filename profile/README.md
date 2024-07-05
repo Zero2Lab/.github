@@ -1,6 +1,6 @@
 # Hi there 👋, We are Zero2Lab
 - 👾 Empowering Minds, Inspiring Futures
-- 🌱 This is a repository for EmpowerWhiz developments.
+- 🌱 This is a development repository for beginner developers.
 - 👯 Everyone is welcome to contribute.
 - 📞 Contact us : <a href="tel:0765577610">076 557 7610</a>
 
