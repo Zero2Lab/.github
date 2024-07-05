@@ -4,10 +4,10 @@
 - 🧑‍💻 Everyone is welcome to contribute.
 
 # Vision 👀
-- Empowering students to unlock their full potential, our organization envisions a future where every student is inspired and motivated to pursue a career in the dynamic and transformative field of IT, unleashing their creativity and innovation to shape the digital world.
+- To be the leading community where beginner developers can seamlessly progress from basic understanding to advanced competence, equipped with the confidence and expertise to thrive in the tech industry.
 
 # Mission 🎯
-- Fostering IT skills and confidence in young learners through immersive experiences, mentorship, and resources, we empower them to thrive in the ever-evolving IT industry.
+- To empower beginner developers with the foundational knowledge and practical skills necessary to transition from novices to proficient professionals, fostering a collaborative and supportive learning environment.
 
 <!--
 
