@@ -1,5 +1,5 @@
 # Hi there 👋, We are Zero2Lab
-- 👾 Empowering Minds, Inspiring Futures
+- 👾 Join the journey from zero to hero at Zero2Lab
 - 🌱 This is a development repository for beginner developers.
 - 🧑‍💻 Everyone is welcome to contribute.
 
